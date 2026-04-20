@@ -1,2 +1,6 @@
 openai
 streamlit
+pdfplumber
+python-docx
+Pillow
+
